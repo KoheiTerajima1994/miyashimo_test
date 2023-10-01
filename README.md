@@ -40,3 +40,5 @@ function hoge() {
     return "コードが書けるよ";
 }
 ```
+
+![ダミー画像](https://placehold.jp/150x150.png)
