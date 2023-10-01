@@ -17,3 +17,6 @@
     1.葉野菜
 1. お肉
 
+[yahoo]: https://www.yahoo.co.jp/
+
+[ヤフー][yahoo]
