@@ -35,7 +35,7 @@
 
 私のとくいなものは`aaaaaaaa`です。
 
-```
+```javascript
 function hoge() {
     return "コードが書けるよ";
 }
